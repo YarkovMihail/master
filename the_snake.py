@@ -1,7 +1,6 @@
-import pygame
-
 from random import randint
 
+import pygame
 
 SCREEN_WIDTH, SCREEN_HEIGHT = 640, 480
 GRID_SIZE = 20
